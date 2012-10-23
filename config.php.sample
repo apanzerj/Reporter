@@ -1,0 +1,8 @@
+<?php
+
+define("ZDAPIKEY", "");
+define("ZDUSER", "");
+define("ZDURL", "https://exampledomain.zendesk.com/api/v2");
+define("DOMAIN", "https://exampledomain.zendesk.com");
+
+?>
