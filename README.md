@@ -61,4 +61,4 @@ Code for this project is being kept at this repository: https://github.com/apanz
 
 If you want to download the code without using git hub you can click the link that says Zip to get a zip file of the project. 
 
-If you want to use git hub please fork the project. 
+If you want to use git hub you can clone the repo.
